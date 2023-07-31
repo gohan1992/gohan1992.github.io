@@ -1,0 +1,52 @@
+.capa1 {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.capa2 {
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+.capa2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.capa2 ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.capa2 ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.capa2 ul li a:hover {
+  text-decoration: underline;
+}
+
+.capa3 {
+  padding: 20px;
+  text-align: center;
+}
+
+.capa-auto {
+  display: none;
+  padding: 20px;
+  text-align: center;
+}
+
+.capa-auto h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+.capa-auto img {
+ max-width: 200px;
+text-align: le;
+}
